@@ -2,6 +2,6 @@
 
 eu sou Bryan
 
--eu pratico futebol
--eu pratico musculação
--leio livros
+.eu pratico futebol
+.eu pratico musculação
+.leio livros
